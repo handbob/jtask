@@ -1,2 +1,9 @@
 # todolist
-Spring boot RESTful web services
+
+### Requirements
+JDK [download](https://sdkman.io/)
+
+#### Run service
+```
+gradle run
+```
