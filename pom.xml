@@ -9,7 +9,7 @@
   </properties>
 
   <modelVersion>4.0.0</modelVersion>
-  <groupId>io.github.handbob.todolist</groupId>
+  <groupId>todolist</groupId>
   <artifactId>todolist</artifactId>
   <version>1.0.0</version>
 
