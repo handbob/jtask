@@ -1,4 +1,4 @@
 # todolist
 
 ### Requirements
-OpenJDK [download](https://openjdk.org/)
+Java, Maven [download](https://sdkman.io/)
