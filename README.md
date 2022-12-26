@@ -1,4 +1,4 @@
 # todolist
 
 ### Requirements
-Java, Maven [download](https://sdkman.io/)
+[Java](https://sdkman.io/), [Maven](https://sdkman.io/), [Spring](https://spring.io/)
