@@ -4,14 +4,14 @@
     
     <modelVersion>4.0.0</modelVersion>
     
-    <groupId>io.github.handbob</groupId>
+    <groupId>todolist</groupId>
     <artifactId>todolist</artifactId>
     <version>1.0.0</version>
     
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <maven.compiler.source>17</maven.compiler.source>
-        <maven.compiler.target>17</maven.compiler.target>
+        <maven.compiler.source>19</maven.compiler.source>
+        <maven.compiler.target>19</maven.compiler.target>
     </properties>
     
     <dependencies>
