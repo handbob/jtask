@@ -5,14 +5,10 @@
 
 ### Build & Run
 
-#### Build
-* Windows
+#### Build project
+* Windows, MacOS/Linux
 ```
-.\gradlew.bat build
-```
-* MacOS/Linux
-```
-./gradlew build
+gradle build
 ```
 #### Run Jar file
 * Windows, MacOS/Linux
