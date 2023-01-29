@@ -14,7 +14,7 @@
 ```
 ./gradlew build
 ```
-#### Run server localy
+#### Run web server localy
 * Windows & MacOS/Linux
 ```
 java -jar todolist-1.0.0.jar
