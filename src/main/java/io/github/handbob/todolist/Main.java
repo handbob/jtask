@@ -1,4 +1,4 @@
-package todolist;
+package io.github.handbob.todolist;
 
 import java.util.Random;
 import java.util.ArrayList;

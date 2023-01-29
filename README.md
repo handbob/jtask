@@ -1,4 +1,4 @@
 # Web RESTful APIs in Spring
 
 ### Requirements
-[Java](https://sdkman.io/), [Maven](https://sdkman.io/), [Spring](https://spring.io/)
+[Java](https://adoptium.net), [Gradle](https://sdkman.io), [Spring](https://spring.io)
