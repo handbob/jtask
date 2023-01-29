@@ -1,4 +1,4 @@
-# Web RESTful APIs in Spring
+# Spring RESTful API web services
 
 ### Requirements
 [Java](https://adoptium.net), [Gradle](https://gradle.org), [Spring](https://spring.io)
