@@ -9,7 +9,7 @@
 ```
 mvn package
 ```
-#### Run Jar file
+#### Run Jar File
 * Windows, MacOS/Linux
 ```
 java -jar todolist-1.0.0.jar
