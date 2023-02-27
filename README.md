@@ -4,12 +4,6 @@
 [Java](https://adoptium.net), [Maven](https://maven.apache.org), [Spring](https://spring.io)
 
 ### Build & Run project
-
-#### Run
-* Windows, MacOS/Linux
-```
-mvn spring-boot:run
-```
 #### Build
 * Windows, MacOS/Linux
 ```
