@@ -8,12 +8,12 @@
 #### Run
 * Windows, MacOS/Linux
 ```
-gradle bootRun
+mvn spring-boot:run
 ```
 #### Build
 * Windows, MacOS/Linux
 ```
-mvn clean package
+mvn package
 ```
 #### Run Jar file
 * Windows, MacOS/Linux
