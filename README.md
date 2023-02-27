@@ -4,7 +4,7 @@
 [Java](https://adoptium.net), [Maven](https://maven.apache.org), [Spring](https://spring.io)
 
 ### Build & Run project
-#### Build
+#### Build Jar File
 * Windows, MacOS/Linux
 ```
 mvn package
