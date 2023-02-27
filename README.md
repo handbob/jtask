@@ -1,7 +1,7 @@
 # Spring RESTful API web services
 
 ### Requirements
-[Java](https://adoptium.net), [Gradle](https://gradle.org), [Spring](https://spring.io)
+[Java](https://adoptium.net), [Maven](https://maven.apache.org), [Spring](https://spring.io)
 
 ### Build & Run project
 
@@ -13,7 +13,7 @@ gradle bootRun
 #### Build
 * Windows, MacOS/Linux
 ```
-gradle build
+mvn clean package
 ```
 #### Run Jar file
 * Windows, MacOS/Linux
