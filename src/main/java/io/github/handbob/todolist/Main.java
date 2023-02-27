@@ -11,7 +11,14 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 class Database {
-    String[] todo = {"clean living room", "buy a milk", "do homework", "read a book", "feed cat", "pay a fee"};
+    String[] todo = {
+		"clean living room",
+		"buy a milk",
+		"do homework",
+		"read a book",
+		"feed cat",
+		"pay a fee"
+	};
 }
 
 class Todo {
@@ -23,6 +30,10 @@ class Todo {
 @RestController
 @SpringBootApplication
 public class Main {
+	public static void main(String[] args) {
+		SpringApplication.run(Main.class, args);
+	}
+
 	Todo todo = new Todo();
     Database database = new Database();
     ArrayList<Todo> arrayList = new ArrayList<Todo>();
@@ -62,7 +73,4 @@ public class Main {
     void delteItemById() {
 
     }
-	public static void main(String[] args) {
-		SpringApplication.run(Main.class, args);
-	}
 }
