@@ -1,4 +1,4 @@
-# Spring RESTful API web services
+# jTodo
 
 ### Requirements
 [Java](https://adoptium.net), [Maven](https://maven.apache.org), [Spring](https://spring.io)
@@ -12,5 +12,5 @@ mvn package
 #### Run Jar File
 * Windows, MacOS/Linux
 ```
-java -jar todolist-1.0.0.jar
+java -jar jtodo-1.0.0.jar
 ```
