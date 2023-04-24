@@ -1,15 +1,16 @@
 # jTodo
 
 ### Requirements
-[Java](https://adoptium.net), [Maven](https://maven.apache.org), [Spring](https://spring.io)
+[Java](https://adoptium.net)  
+[Maven](https://maven.apache.org)  
+[Spring](https://spring.io)
 
-### Build & Run project
-#### Build Jar File
+#### Build .jar file
 * Windows, MacOS/Linux
 ```
 mvn package
 ```
-#### Run Jar File
+#### Execute .jar file
 * Windows, MacOS/Linux
 ```
 java -jar jtodo-1.0.0.jar
