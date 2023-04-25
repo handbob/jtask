@@ -1,9 +1,9 @@
 # jTodo
 
 ### Requirements
-[Java](https://openjdk.org/)  
-[Maven](https://maven.apache.org)  
-[Spring](https://spring.io)
+* [Java](https://openjdk.org/)  
+* [Maven](https://maven.apache.org)  
+* [Spring](https://spring.io)
 
 #### Build .jar file
 * Windows, MacOS/Linux
