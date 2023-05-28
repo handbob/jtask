@@ -8,7 +8,7 @@
 #### Build .jar file
 * Windows, MacOS/Linux
 ```
-mvn clean package
+mvn -q clean package
 ```
 #### Execute .jar file
 * Windows, MacOS/Linux
