@@ -6,8 +6,8 @@
 	
 	<modelVersion>4.0.0</modelVersion>
 	
-	<groupId>io.github.handbob.jtodo</groupId>
-	<artifactId>jTodo</artifactId>
+	<groupId>io.github.handbob.jtask</groupId>
+	<artifactId>jTask</artifactId>
 	<version>1.0.0</version>
 
 	<properties>
@@ -27,6 +27,10 @@
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-devtools</artifactId>
 		</dependency>
 	</dependencies>
 
