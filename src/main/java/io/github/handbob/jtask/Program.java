@@ -1,4 +1,4 @@
-package io.github.handbob.jtask;
+package io.github.handbob.jtasks;
 
 import java.util.ArrayList;
 import org.springframework.boot.SpringApplication;
