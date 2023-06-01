@@ -5,13 +5,18 @@
 * [Maven](https://maven.apache.org)  
 * [Spring](https://spring.io)
 
-#### Build .jar file
+#### Build and run .jar the Spring Boot application
+* Windows, MacOS/Linux
+```
+mvn spring-boot:run
+```
+#### Build .jar Spring Boot application
 * Windows, MacOS/Linux
 ```
 mvn -q clean package
 ```
-#### Execute .jar file
+#### Execute .jar Spring Boot application
 * Windows, MacOS/Linux
 ```
-java -jar jtask-1.0.0.jar
+java -jar jTask-1.0.0.jar
 ```
