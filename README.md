@@ -1,4 +1,4 @@
-# jTask
+# jTasks
 
 ### Requirements
 * [Java](https://openjdk.org/)  
@@ -18,5 +18,5 @@ mvn -q clean package
 #### Execute .jar Spring Boot application
 * Windows, MacOS/Linux
 ```
-java -jar jTask-1.0.0.jar
+java -jar jTasks-1.0.0.jar
 ```
