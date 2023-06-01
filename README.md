@@ -1,4 +1,4 @@
-# jTodo
+# jTask
 
 ### Requirements
 * [Java](https://openjdk.org/)  
@@ -13,5 +13,5 @@ mvn -q clean package
 #### Execute .jar file
 * Windows, MacOS/Linux
 ```
-java -jar jtodo-1.0.0.jar
+java -jar jtask-1.0.0.jar
 ```
