@@ -1,4 +1,4 @@
-# jTasks API
+# jTasks
 
 ### Requirements
 * [Java](https://openjdk.org/)  
