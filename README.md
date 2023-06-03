@@ -13,7 +13,7 @@ mvn spring-boot:run
 #### Build without run
 * Windows, MacOS/Linux
 ```
-mvn -q clean package
+mvn --quiet clean package
 ```
 #### Run
 * Windows, MacOS/Linux
