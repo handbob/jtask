@@ -18,5 +18,5 @@ mvn -q clean package
 #### Run
 * Windows, MacOS/Linux
 ```
-java -jar jTasks-1.0.0.jar
+java -jar jtasks-1.0.0.jar
 ```
