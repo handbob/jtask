@@ -1,4 +1,4 @@
-# jTasks
+# jTask
 
 ### Requirements
 * [Java](https://openjdk.org/)  
@@ -18,5 +18,5 @@ mvn -q clean package
 #### Run
 * Windows, MacOS/Linux
 ```
-java -jar jtasks-1.0.0.jar
+java -jar jtask-1.0.0.jar
 ```
