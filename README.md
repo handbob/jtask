@@ -1,7 +1,7 @@
 # jTask
 
 ### Requirements
-* [Java](https://openjdk.org/)  
+* [Java](https://openjdk.org)  
 * [Maven](https://maven.apache.org)  
 * [Spring](https://spring.io)
 
