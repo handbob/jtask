@@ -8,12 +8,12 @@
 #### Build and run
 * Windows, MacOS/Linux
 ```
-mvn --quiet spring-boot:run
+mvn spring-boot:run
 ```
 #### Build without run
 * Windows, MacOS/Linux
 ```
-mvn --quiet clean package
+mvn install clean package
 ```
 #### Run
 * Windows, MacOS/Linux
