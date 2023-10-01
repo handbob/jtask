@@ -4,4 +4,6 @@ import org.springframework.data.repository.*;
 
 import jtask.jdata.*;
 
-public interface JRepository extends CrudRepository<JData, Integer> {}
+public interface JRepository extends CrudRepository<JData, Long> {
+    
+}
