@@ -1,5 +1,5 @@
 package jtask.jcontroller;
 
-public class JControllerTest {
+public class TestJController {
     
 }

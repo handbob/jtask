@@ -1,7 +1,6 @@
 package jtask.jrepository;
 
-import org.springframework.data.repository.*;
-
 import jtask.jdata.*;
+import org.springframework.data.repository.*;
 
 public interface JRepository extends CrudRepository<JData, Long> { }
