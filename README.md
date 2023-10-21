@@ -5,6 +5,7 @@
 * [Maven](https://maven.apache.org)  
 * [Spring](https://spring.io)
 * [JUnit](https://junit.org)
+* [PostgreSQL](https://www.postgresql.org)
 
 #### Build and run
 * Windows, MacOS/Linux
