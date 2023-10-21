@@ -7,17 +7,17 @@
 * [JUnit](https://junit.org)
 * [PostgreSQL](https://www.postgresql.org)
 
-#### Build and run
+#### Unit tests
 * Windows, MacOS/Linux
 ```
-mvn spring-boot:run
+mvn clean test
 ```
-#### Build without run
+#### Build application
 * Windows, MacOS/Linux
 ```
-mvn install clean package
+mvn clean package
 ```
-#### Run
+#### Run application
 * Windows, MacOS/Linux
 ```
 java -jar jtask-x.x.x.jar
