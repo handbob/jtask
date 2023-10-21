@@ -1,5 +1,5 @@
 package jtask.jdata;
 
-public class TestJData {
+public class JDataTest {
     
 }
