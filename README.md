@@ -4,6 +4,7 @@
 * [Java](https://openjdk.org)  
 * [Maven](https://maven.apache.org)  
 * [Spring](https://spring.io)
+* [JUnit](https://junit.org)
 
 #### Build and run
 * Windows, MacOS/Linux
