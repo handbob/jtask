@@ -10,7 +10,7 @@
 #### Unit tests
 * Windows, MacOS/Linux
 ```
-mvn clean test
+mvn test
 ```
 #### Build application
 * Windows, MacOS/Linux
