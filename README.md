@@ -1,4 +1,4 @@
-# jTask
+# jTask - RESTful API
 
 ### Requirements
 * [Java](https://openjdk.org)  
