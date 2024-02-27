@@ -3,8 +3,7 @@
 ### Requirements
 * [Java](https://openjdk.org)  
 * [Maven](https://maven.apache.org)  
-* [Spring Boot](https://spring.io)
-* [Hibernate](https://hibernate.org/)
+* [Spring](https://spring.io)
 * [JUnit](https://junit.org)
 * [PostgreSQL](https://www.postgresql.org)
 
