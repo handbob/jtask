@@ -7,6 +7,7 @@ import org.springframework.web.bind.annotation.*;
 
 @Tag(name = "JTask")
 @RestController
+@CrossOrigin
 @RequestMapping("/api/v1")
 public class JController {
   private final JRepository jRepository;

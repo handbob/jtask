@@ -11,10 +11,24 @@ public class JData {
     private String task;
     private boolean done;
 
-    public JData() {}
-    public JData(String task, boolean done) { this.task = task; this.done = done; }
+    public JData() {
+
+    }
+
+    public JData(String task, boolean done) {
+        this.task = task;
+        this.done = done;
+    }
     
-    public Long getId() { return this.id; }
-    public String getTask() { return this.task; }
-    public boolean getDone() { return done; }
+    public Long getId() {
+        return this.id;
+    }
+
+    public String getTask() {
+        return this.task;
+    }
+    
+    public boolean getDone() {
+        return done;
+    }
 }
