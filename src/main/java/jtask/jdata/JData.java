@@ -8,8 +8,12 @@ public class JData {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
     private Long id;
-    private final String task;
-    private final boolean done;
+    private String task;
+    private boolean done;
+
+    public JData() {
+
+    }
 
     public JData(String task, boolean done) {
         this.task = task;
