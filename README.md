@@ -1,4 +1,4 @@
-# JTask
+# jtask
 
 ### Requirements
 * [Java](https://openjdk.org)  
