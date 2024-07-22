@@ -8,17 +8,17 @@
 * [PostgreSQL](https://www.postgresql.org)
 
 #### Unit tests
-* Windows, MacOS/Linux
+* Windows, macOS/Linux
 ```
 mvn test
 ```
 #### Build application
-* Windows, MacOS/Linux
+* Windows, macOS/Linux
 ```
 mvn clean package
 ```
 #### Run application
-* Windows, MacOS/Linux
+* Windows, macOS/Linux
 ```
 java -jar jtask-x.x.x.jar
 ```
