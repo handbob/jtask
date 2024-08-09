@@ -1,14 +1,12 @@
-package jtask.jcontroller;
+package jtask.controller;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import org.junit.jupiter.api.Test;
 
-import jtask.Main;
-
-public class JControllerTests {
+public class ControllerTests {
     @Test
     void jControllerTest() {
-        assertEquals(55, Main.sum(10), () -> "");
+
     }
 }

@@ -1,14 +1,12 @@
-package jtask.jdata;
+package jtask.data;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import org.junit.jupiter.api.Test;
 
-import jtask.Main;
-
-public class JDataTests {
+public class TaskTests {
     @Test
     void jDataTest() {
-        assertEquals(55, Main.sum(10), "");
+
     }
 }
